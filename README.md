@@ -2,7 +2,6 @@
 
 A Django REST API backend for an events platform with JWT authentication, email OTP verification, role-based access control (RBAC), event management, and enrollments.
 
-This project was built as part of a backend internship task.
 
 ---
 
